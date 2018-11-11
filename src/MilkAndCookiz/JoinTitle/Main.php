@@ -40,6 +40,6 @@ private $prefix = "[JoinTitle]";
 	
 	public function onJoin(PlayerJoinEvent $event){
 		$joinTask = new SendTask($this, $event->getPlayer());
-		$this->getScheduler()->scheduleDelayedTask($joinTask, 20);
+		$this->getScheduler()->scheduleDelayedTask($joinTask, 30);
 	}
 }
