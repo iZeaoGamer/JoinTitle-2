@@ -7,10 +7,10 @@
 #################
 
 #main_title: Change the big title here, for example you can put your server name here.
-main_title: "§l§9Your Server§r"
+main_title: "§a§lWelcome To"
 
 #down_title: Change the little title here, for example you can put a welcome message here.
-down_title: "§6§ki§9i§ai§r §7§o#Welcome !§r §a§ki§9i§6i§r"
+down_title: "§6Void§3OP§bFactions§cPE!"
 
 #time_title: Change the appearance time of the title here. 20 = 1 sec.
 time_title: 60
